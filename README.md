@@ -20,7 +20,7 @@ git  clone  https://github.com/fluffyP4nd4/simpleBrowserExtension.git
 To run this extension on your broser follow this steps 
 
 ### Chrome, FireFox,Opera,IE, Safari
-(https://www.computerhope.com/issues/ch001888.htm)
+
 
 
 
